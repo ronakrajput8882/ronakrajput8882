@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ronaksinh Rajput 👋
+AI/ML Developer · NLP · RAG Systems · LLMs
 
-<!--
-**ronakrajput8882/ronakrajput8882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently: AI/ML Intern @ MindInventory
+🎓 Final-year CE @ CVM University (MBIT)
+🌱 Building: LLM apps, RAG systems, ML pipelines
+📫 ronakrajput160805@gmail.com
 
-Here are some ideas to get you started:
+## 🛠️ Stack
+Python · PyTorch · TensorFlow · LangChain · HuggingFace · scikit-learn · SQL · Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🏠 House Price Prediction — Linear Regression | R² 0.374
+- 👥 Employee Turnover Prediction — Logistic Regression | L1/L2
