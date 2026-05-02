@@ -1,7 +1,7 @@
 # Hi, I'm Ronaksinh Rajput 👋
 AI/ML Developer · NLP · RAG Systems · LLMs
 
-🔭 Currently: AI/ML Intern @ MindInventory
+🔭 Currently: AI/ML Intern @ CodeAlpha
 🎓 Final-year CE @ CVM University (MBIT)
 🌱 Building: LLM apps, RAG systems, ML pipelines
 📫 ronakrajput160805@gmail.com
