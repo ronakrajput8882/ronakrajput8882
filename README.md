@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Ronaksinh%20Rajput&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20·%20NLP%20·%20RAG%20Systems%20·%20LLMs&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Building+AI+systems+worth+building+🤖;NLP+%7C+GenAI+%7C+Deep+Learning+🧠;Open+to+AI%2FML+%26+Data+Science+roles+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Building+AI+systems+worth+building;NLP+%7C+GenAI+%7C+Deep+Learning;Open+to+AI%2FML+%26+Data+Science+roles" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronakrajput8882)
 [![Portfolio](https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://techwithronak.onrender.com)
