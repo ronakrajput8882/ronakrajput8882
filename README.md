@@ -97,19 +97,19 @@ me.say_hi()
 
 ## 💼 Experience
 
+**🔬 ML Intern @ CodeAlpha, Lucknow** *(Apr 2026 – May 2026)*
+- Developed and evaluated ML models for real-world classification and regression tasks
+- Performed data wrangling, feature selection, and pipeline automation using Python & Pandas
+- Explored model interpretability techniques to improve transparency of predictions
+- Contributed to team codebase with documented, reproducible experiment notebooks
+
+  
 **🔬 AI/ML Intern @ MindInventory, Ahmedabad** *(Jan 2026 – Apr 2026)*
 - Fine-tuning ML & deep learning models on production datasets using Python, TensorFlow & PyTorch
 - Building preprocessing pipelines and optimizing LLM-based applications with LangChain
 - Conducting experiments to reduce overfitting and improve inference efficiency
 - Collaborating with senior engineers on end-to-end model deployment workflows
-
-
-**🔬 ML Intern @ CodeAlpha, Lucknow** *(Apr 2026 – May 2026)*
-- Fine-tuning ML & deep learning models on production datasets using Python, TensorFlow & PyTorch
-- Building preprocessing pipelines and optimizing LLM-based applications with LangChain
-- Conducting experiments to reduce overfitting and improve inference efficiency
-- Collaborating with senior engineers on end-to-end model deployment workflows
-  
+    
 ---
 
 ## 📜 Certifications
