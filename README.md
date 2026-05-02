@@ -54,8 +54,7 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ronakrajput8882&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakrajput8882&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=6" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronakrajput8882&theme=tokyonight" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ronakrajput8882&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
 
