@@ -97,12 +97,19 @@ me.say_hi()
 
 ## 💼 Experience
 
-**🔬 AI/ML Intern @ MindInventory, Ahmedabad** *(Jan 2026 – Present)*
+**🔬 AI/ML Intern @ MindInventory, Ahmedabad** *(Jan 2026 – Apr 2026)*
 - Fine-tuning ML & deep learning models on production datasets using Python, TensorFlow & PyTorch
 - Building preprocessing pipelines and optimizing LLM-based applications with LangChain
 - Conducting experiments to reduce overfitting and improve inference efficiency
 - Collaborating with senior engineers on end-to-end model deployment workflows
 
+
+**🔬 ML Intern @ CodeAlpha, Lucknow** *(Apr 2026 – May 2026)*
+- Fine-tuning ML & deep learning models on production datasets using Python, TensorFlow & PyTorch
+- Building preprocessing pipelines and optimizing LLM-based applications with LangChain
+- Conducting experiments to reduce overfitting and improve inference efficiency
+- Collaborating with senior engineers on end-to-end model deployment workflows
+  
 ---
 
 ## 📜 Certifications
