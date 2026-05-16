@@ -39,7 +39,16 @@
 
 ---
 
+## 🚀 Projects
+<div align="center">
+  
+| 🏠 House Price Prediction | 👥 Employee Turnover Prediction |
+|---|---|
+| Linear Regression · R² 0.374 · MAE ~$30,829 | Logistic Regression · L1/L2 · 16-feature HR dataset |
+| [View →](https://github.com/ronakrajput8882/House-Price-Prediction) | [View →](https://github.com/ronakrajput8882/Employee-Turnover-Prediction) |
+</div>
 
+---
 
 ## 📊 GitHub Stats
 
