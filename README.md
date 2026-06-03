@@ -56,7 +56,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronakrajput8882&theme=tokyonight" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ronakrajput8882&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ronakrajput8882&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](DenverCoder1/github-readme-streak-stats@v1.7.0)
 
 </div>
 
