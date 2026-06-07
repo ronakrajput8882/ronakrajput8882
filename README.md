@@ -14,11 +14,9 @@
 </div>
 
 ---
-
 🎓 Final-year CE @ MBIT, CVM University · 📍 Anand, Gujarat  
 🔬 ML Intern @ CodeAlpha | AI/ML Intern @ MindInventory  
 🚀 Building LLM apps, RAG systems & ML pipelines that actually work
-
 ---
 
 ## 🛠️ Stack
